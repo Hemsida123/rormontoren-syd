@@ -1,0 +1,20 @@
+RÖRMONTÖREN SYD – FILER FÖR GITHUB PAGES
+
+1. Packa upp ZIP-filen.
+2. Ladda upp ALLA filer och mappar till ditt GitHub-repository.
+   index.html ska ligga direkt i repositoryts rot, inte i en extra mapp.
+3. Behåll assets och alla undersidors mappar precis som de är.
+4. Aktivera Pages i repositoryts inställningar för den branch och rotmapp du använder.
+
+Ingen installation eller byggning krävs. index.html ensam räcker inte:
+styles.css, app.js, assets och undersidorna behövs för hela hemsidan.
+
+Det här är samma designförslag som förhandsvisningen. Originalkundens webbplats
+har inte ändrats. Sökindexering är fortfarande avstängd med noindex och robots.txt
+för att designförslaget inte ska konkurrera med originalet hos Google.
+
+Inför en riktig lansering behöver produktionsadress, canonical/OG-adresser,
+indexeringsinställningar och aktuella företagsuppgifter ses över. Den angivna
+förhandsvisningsadressen i metadata påverkar inte bilder eller navigering.
+
+Omdömet är ett daterat utdrag från Hitta.se, inte en automatiskt uppdaterad widget.
